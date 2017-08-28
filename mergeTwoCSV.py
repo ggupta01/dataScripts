@@ -1,6 +1,6 @@
 import csv
 
-outputfile = "usequity_1_1.csv"
+outputfile = "myfile_1_1.csv"
 outputfile = open(outputfile,"w")
 csvwriter = csv.writer(outputfile)
 
